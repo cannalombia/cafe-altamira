@@ -24,3 +24,9 @@ El formulario de suscripción cuenta con etiquetas asociadas y campos obligatori
 
 El pie de página presenta la información de contacto y navegación de forma clara.
 
+
+
+\## G2 · Catálogo
+
+El catálogo organiza los productos en artículos accesibles y presenta su información de manera clara.
+

@@ -28,3 +28,4 @@ El pie de página presenta la información de contacto y navegación de forma cl
 
 .
 
+- Verificación G4: revisé que el pie de página tenga información de contacto y enlaces claros.

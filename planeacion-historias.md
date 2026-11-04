@@ -16,7 +16,7 @@ El catálogo presenta los productos organizados en artículos con información c
 
 \## G3 · Suscripción
 
-El formulario de suscripción cuenta con etiquetas asociadas y campos obligatorios.
+El formulario de suscripción incluye etiquetas asociadas, campos obligatorios y controles accesibles.
 
 
 
@@ -26,7 +26,5 @@ El pie de página presenta la información de contacto y navegación de forma cl
 
 
 
-\## G2 · Catálogo
-
-El catálogo organiza los productos en artículos accesibles y presenta su información de manera clara.
+.
 
